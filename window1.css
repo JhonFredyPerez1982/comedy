@@ -1,0 +1,31 @@
+body{
+    background: url(imagenes/fredy.PNG);
+}
+.AnswerMakeitrealExercise1 {
+   margin: 10px;
+   color: azure;
+   text-shadow:20px 10px 10px red ;
+}
+.l {
+    font-size: 17px;
+    text-align: center;
+    color : red;
+    text-shadow:10px 2px 10px black ;
+}
+ .hi1{
+        position:absolute;
+      }
+@media screen and (max-width:480px) {
+    body{
+            width: auto;
+    }
+    .l{
+    font-size:  50px;
+}
+}
+@media(max-width: 769px) {
+    
+.l {
+font-size:  50px;
+    }
+}
